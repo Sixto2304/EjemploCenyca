@@ -1,5 +1,5 @@
-nombre:sixto alemao
+nombre: Sixto Alemao
 estatura:1.65
-Abilidad:comer
-gustos:ejercicios, ver peliculas y gujar videojuegos
+Habilidad: comer
+gustos: ejercicios, ver anime y jugar videojuegos
 
