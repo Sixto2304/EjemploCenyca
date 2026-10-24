@@ -1,0 +1,5 @@
+nombre:sixto alemao
+estatura:1.65
+Abilidad:comer
+gustos:ejercicios, ver peliculas y gujar videojuegos
+
