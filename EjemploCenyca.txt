@@ -3,3 +3,4 @@ estatura:1.65
 Habilidad: comer
 gustos: ejercicios, ver anime y jugar videojuegos
 
+CONTEXTO:SIXTO ALEMAO 
